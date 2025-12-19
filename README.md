@@ -6,3 +6,5 @@
 《EvadingEDR》
 《加密与解密》
 
+然后就是maldevacademy相关的教程
+学吧，永远都学不完的，基础学完了，学pe、汇编、windows、逆向、太多了
