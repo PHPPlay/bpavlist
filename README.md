@@ -81,10 +81,16 @@ https://maldevacademy.com/maldev-course/syllabus
 
 shellcodeloader加载方式大全 ---------
 https://github.com/SaadAhla/Shellcode-Hide
+
+
 执行shellcode的各种方法 ---------
 https://github.com/Wra7h/FlavorTown
+
+
 傻瓜恶意软件开发 ---------
 https://github.com/chvancooten/maldev-for-dummies
+
+
 shellcode加密混淆 ---------
 https://github.com/EgeBalci/sgn
 
