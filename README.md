@@ -79,7 +79,7 @@ https://maldevacademy.com/maldev-course/syllabus
 
 ## github项目
 
-shellcodeloader加载方式大全 ---------
+shellcodeloader的多种方式 ---------
 https://github.com/SaadAhla/Shellcode-Hide
 
 
