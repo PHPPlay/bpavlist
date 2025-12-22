@@ -4,7 +4,7 @@
 ## 书籍
 《WINDOWS黑客编程技术详解》
 《EvadingEDR》
-《加密与解密》
+《加密与解密》系列
 
 ## 教程
 这里推荐maldevacademy，不用买
