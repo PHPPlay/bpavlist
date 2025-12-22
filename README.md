@@ -8,3 +8,7 @@
 
 然后就是maldevacademy相关的教程
 学吧，永远都学不完的，基础学完了，学pe、汇编、windows、逆向、太多了
+
+github上面一些项目
+
+shellcodeloader加载方式大全 --------- https://github.com/Wra7h/FlavorTown
