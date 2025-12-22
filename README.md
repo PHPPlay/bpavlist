@@ -9,7 +9,8 @@
 《加密与解密》系列
 
 ## 教程
-这里推荐maldevacademy，不用买
+这里推荐maldevacademy
+
 https://maldevacademy.com/maldev-course/syllabus
 这里我整理一下
 
