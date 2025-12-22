@@ -1,5 +1,6 @@
 # bpavlist
 我的一些免杀笔记与网上一些文章，记录和备份一下防丢
+学吧，永远都学不完的，这个基础学完了，然后学pe、汇编、windows、逆向、太多了
 
 ## 书籍
 《WINDOWS黑客编程技术详解》
@@ -66,7 +67,7 @@ https://maldevacademy.com/maldev-course/syllabus
 学习方法这个自己去找
 
 
-学吧，永远都学不完的，这个基础学完了，然后学pe、汇编、windows、逆向、太多了
+
 
 ## github项目
 
