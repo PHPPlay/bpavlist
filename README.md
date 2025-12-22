@@ -94,3 +94,5 @@ https://github.com/chvancooten/maldev-for-dummies
 shellcode加密混淆 ---------
 https://github.com/EgeBalci/sgn
 
+重剑无锋的免杀大全 ---------
+https://github.com/TideSec/BypassAntiVirus
