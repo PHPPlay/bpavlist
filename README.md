@@ -96,3 +96,6 @@ https://github.com/EgeBalci/sgn
 
 重剑无锋的免杀大全 ---------
 https://github.com/TideSec/BypassAntiVirus
+
+执行shellcode的各种方法2 ---------
+https://github.com/Cherno-x/MyShellcodeLoader
